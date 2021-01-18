@@ -9,19 +9,19 @@ As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Ran
 
 Key features of the Arduino PID for Rancilio Silvia:
 
-1 - Completely hidden, no displays, no buttons. My goal is to keep the stock look of the Silvia.
-2 - Easy to build
-3 - Fast recovery from both cold starts and steaming.
-4 - Custom algorithm for the "Ready light", it can't be based on the boiler as the SSR use the boiler more frequently than the stock setup.
-5 - Original buttons work as normal
-6 - No limits on how long it can stay powered on.
-7 - No additional procedures
+1 - Completely hidden, no displays, no buttons. My goal is to keep the stock look of the Silvia.  
+2 - Easy to build  
+3 - Fast recovery from both cold starts and steaming.  
+4 - Custom algorithm for the "Ready light", it can't be based on the boiler as the SSR use the boiler more frequently than the stock setup.  
+5 - Original buttons work as normal  
+6 - No limits on how long it can stay powered on.  
+7 - No additional procedures  
 
 Features that I might add:
 
-1 - Log to SD card (already implemented, but I will remove it for simplicity and upload this version as "custom")
-2 - Display for the temperature.
-3 - Boiling point based on actual atmospheric pressure (I don't know yet if this is of any use for making better espresso)
+1 - Log to SD card (already implemented, but I will remove it for simplicity and upload this version as "custom")  
+2 - Display for the temperature.  
+3 - Boiling point based on actual atmospheric pressure (I don't know yet if this is of any use for making better espresso)  
 4 - USB port for adjusting/tuning and logging
 
 I will upload the Arduino file, schematics and more information as I complete them.
