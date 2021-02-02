@@ -3,7 +3,7 @@ A hidden/internal PID for Rancilio Silvia based on Arduino.
 
 The original temperature control in the Rancilio Silvia is not the best ever made. It fluctuates from 80s to the 110s C.
 
-![alt text](https://github.com/hbsagen/Rancilio-Silvia-Arduino-PID/blob/main/Silvia%20PID.png)
+![alt text](https://github.com/hbsagen/Rancilio-Silvia-Arduino-PID/blob/main/Temp.png)
 
 As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Rancilio Silvia does a far better job of holding the temperature at 100 C. This project seeks to optimize this simple setup for stable temperatures and fast recovery after steaming.
 
