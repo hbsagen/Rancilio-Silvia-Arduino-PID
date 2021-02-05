@@ -25,3 +25,20 @@ Features that I might add:
 4 - USB port for adjusting/tuning and logging
 
 I will upload the Arduino file, schematics and more information as I complete them.
+
+Parts used:
+
+1 - Arduino Mega 2560
+2 - MAX31855 Thermocouple
+3 - 40A SSR Relay
+4 - 230V USB charger (Apple)
+5 - LED with a resistor replaces the "ready" lamp
+6 - A few new wires
+
+Working priciple:
+
+1 - The 100C thermoswitch is replaced with a SSR
+2 - The 140C and 165C thermoswitches is still in the loop.
+3 - The Arduino keeps the temperature at 100C when the Silvia is powered on.
+4 - The "ready" light is set up to "be ready" between 97C and 102C, and first after 15 minutes
+5 - The steam-button still works as original, but the "ready lamp" is ready when the boiler passes 140C.
