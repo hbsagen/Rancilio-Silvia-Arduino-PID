@@ -24,7 +24,7 @@ As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Ran
 3 - Boiling point based on actual atmospheric pressure (I don't know yet if this is of any use for making better espresso)  
 4 - USB port for adjusting/tuning and logging
 
-I will upload the Arduino file, schematics and more information as I complete them.
+I will upload the schematics and more information as I complete them.
 
 <ins>Parts used:</ins>
 
