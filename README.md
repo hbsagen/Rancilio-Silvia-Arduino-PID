@@ -7,7 +7,7 @@ The original temperature control in the Rancilio Silvia is not the best ever mad
 
 As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Rancilio Silvia does a far better job of holding the temperature at 100 C. This project seeks to optimize this simple setup for stable temperatures and fast recovery after steaming.
 
-Key features of the Arduino PID for Rancilio Silvia:
+<ins>Key features of the Arduino PID for Rancilio Silvia:</ins>
 
 1 - Completely hidden, no displays, no buttons. My goal is to keep the stock look of the Silvia.  
 2 - Easy to build  
@@ -17,7 +17,7 @@ Key features of the Arduino PID for Rancilio Silvia:
 6 - No limits on how long it can stay powered on.  
 7 - No additional procedures  
 
-Features that I might add:
+<ins>Features that I might add:</ins>
 
 1 - Log to SD card (already implemented, but I will remove it for simplicity and upload this version as "custom")  
 2 - Display for the temperature.  
@@ -26,7 +26,7 @@ Features that I might add:
 
 I will upload the Arduino file, schematics and more information as I complete them.
 
-Parts used:
+<ins>Parts used:</ins>
 
 1 - Arduino Mega 2560  
 2 - MAX31855 Thermocouple  
@@ -35,7 +35,7 @@ Parts used:
 5 - LED with a resistor replaces the "ready" lamp  
 6 - A few new wires  
 
-Working priciple:
+<ins>Working priciple:</ins>
 
 1 - The 100C thermoswitch is replaced with a SSR  
 2 - The 140C and 165C thermoswitches is still in the loop  
