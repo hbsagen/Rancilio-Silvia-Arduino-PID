@@ -9,7 +9,7 @@ As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Ran
 
 <ins>Key features of the Arduino PID for Rancilio Silvia:</ins>
 
-1 - Completely hidden. My goal is to keep the stock look of the Silvia.
+1 - Completely hidden. My goal is to keep the stock look of the Silvia.  
 2 - Easy to build  
 3 - Fast recovery from both cold starts and steaming.  
 4 - Original buttons work as normal  
