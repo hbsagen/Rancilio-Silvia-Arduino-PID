@@ -1,4 +1,4 @@
-# Rancilio-Silvia-Arduino-PID
+# Rancilio Silvia Arduino PID
 A hidden/internal PID for Rancilio Silvia based on Arduino.
 
 The original temperature control in the Rancilio Silvia is not the best ever made. It fluctuates from 80s to the 110s C.
