@@ -37,6 +37,5 @@ I will upload the schematics and more information as I complete them.
 
 1 - The 100C thermoswitch is replaced with a SSR  
 2 - The 140C and 165C thermoswitches is still in the loop  
-3 - The Arduino keeps the temperature at 100C when the Silvia is powered on  
-4 - The "ready" light is set up to "be ready" between 97C and 102C, and first after 15 minutes  
-5 - The steam-button still works as original, but the "ready lamp" is ready when the boiler passes 140C.
+3 - The Arduino keeps the temperature at desired setpoint when the Silvia is powered on  
+5 - The steam-button still works as original, and it is ready when the boiler passes 140C
