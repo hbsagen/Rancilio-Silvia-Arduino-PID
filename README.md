@@ -18,9 +18,7 @@ As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Ran
 
 <ins>Features that I might add:</ins>
 
-1 - Log to SD card (already implemented, but I will remove it for simplicity and upload this version as "custom")  
-2 - Boiling point based on actual atmospheric pressure (I don't know yet if this is of any use for making better espresso)  
-3 - USB port for adjusting/tuning and logging
+1 - Boiling point based on actual atmospheric pressure (I don't know yet if this is of any use for making better espresso)  
 
 I will upload the schematics and more information as I complete them.
 
@@ -32,7 +30,7 @@ I will upload the schematics and more information as I complete them.
 4 - 230V USB charger (Apple)  
 5 - LED with a resistor replaces the "ready" lamp  
 6 - A few new wires
-7 - Ampmeter
+7 - Ampmeter for detecting pumping
 8 - 4 digit display
 
 <ins>Working priciple:</ins>
