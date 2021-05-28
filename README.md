@@ -29,8 +29,8 @@ I will upload the schematics and more information as I complete them.
 3 - 40A SSR Relay  
 4 - 230V USB charger (Apple)  
 5 - LED with a resistor replaces the "ready" lamp  
-6 - A few new wires
-7 - Ampmeter for detecting pumping
+6 - A few new wires  
+7 - Ampmeter for detecting pumping  
 8 - 4 digit display
 
 <ins>Working priciple:</ins>
