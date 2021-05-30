@@ -124,7 +124,7 @@ void loop(void) {
       done = done + 1;
     }
     else if (done == 2 or done == 4){
-      display.showNumber(i,false,3,0);
+      display.showNumber(i-1,false,3,0);
       done = done + 1;
     }
     else{
