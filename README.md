@@ -15,6 +15,7 @@ As seen in this image, an Arduino with a SSR, and a basic PID, tuned for the Ran
 4 - Original buttons work as normal  
 5 - No limits on how long it can stay powered on.  
 6 - No additional procedures  
+7 - Shows how long the pump has been on  
 
 <ins>Features that I might add:</ins>
 
