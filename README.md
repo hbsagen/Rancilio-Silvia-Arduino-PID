@@ -39,4 +39,5 @@ I will upload the schematics and more information as I complete them.
 1 - The 100C thermoswitch is replaced with a SSR  
 2 - The 140C and 165C thermoswitches is still in the loop  
 3 - The Arduino keeps the temperature at desired setpoint when the Silvia is powered on  
+4 - The display shows how long the pump has been on, and flashes the total time for some seconds when the pump stops  
 5 - The steam-button still works as original, and it is ready when the boiler passes 140C
