@@ -29,10 +29,9 @@ I will upload the schematics and more information as I complete them.
 2 - MAX31855 Thermocouple  
 3 - 40A SSR Relay  
 4 - 230V USB charger (Apple)  
-5 - LED with a resistor replaces the "ready" lamp  
-6 - A few new wires  
-7 - Ampmeter for detecting pumping  
-8 - 4 digit display
+5 - A few new wires  
+6 - Ampmeter for detecting pumping  
+7 - 4 digit display
 
 <ins>Working priciple:</ins>
 
